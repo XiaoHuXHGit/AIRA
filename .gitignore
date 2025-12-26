@@ -1,0 +1,117 @@
+# =========================
+# Python
+# =========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+pythonenv/
+env/
+ENV/
+
+# Python build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# =========================
+# IDE / Editor
+# =========================
+
+# VS Code
+.vscode/
+**/.vscode/
+
+# JetBrains (PyCharm / IntelliJ)
+.idea/
+**/.idea/
+
+# Other editors
+*.swp
+*.swo
+*.tmp
+
+# =========================
+# OS / System
+# =========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# =========================
+# Logs / Runtime
+# =========================
+
+logs/
+log/
+*.log
+
+# =========================
+# Cache / Temp
+# =========================
+
+.cache/
+**/.cache/
+tmp/
+temp/
+
+# =========================
+# Models / Data (AI 项目必备)
+# =========================
+
+models/
+model/
+data/
+datasets/
+checkpoints/
+
+# =========================
+# Jupyter
+# =========================
+
+.ipynb_checkpoints/
+
+# =========================
+# Environment / Secrets
+# =========================
+
+.env
+.env.*
+*.key
+*.pem
+secrets/
+config.local.*
+
+# =========================
+# Coverage / Test Artifacts
+# =========================
+
+.coverage
+htmlcov/
+.tox/
+.pytest_cache/
+
+# =========================
+# Misc
+# =========================
+
+*.bak
+*.orig
+*.rej
